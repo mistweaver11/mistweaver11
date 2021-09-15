@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mistweaver11
-- 👀 I’m interested in being awesome, learning coding, working for good companies.  
-- 🌱 I’m currently learning Python 3. 
+- 👋 Hi, I’m @rileymau
+- 👀 I’m interested in learning coding and working for good companies.  
+- 🌱 I’m currently learning Python 3. I know R as well since I used in in statistics in college.  
 - 💞️ I’m looking to collaborate on learning software engineering and data engineering skills. 
-- 📫 How to reach me morgannmistweaveaver@ protonmail.com
+- 📫 How to reach me mo.riley@gmail.com
 
-<!---
-mistweaver11/mistweaver11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
